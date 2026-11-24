@@ -1,0 +1,175 @@
+---
+---
+
+@import "jekyll-theme-cayman";
+
+.site-header {
+  padding: 2rem 1rem;
+}
+
+.site-header .project-name {
+  margin-bottom: 0.5rem;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: inherit;
+}
+
+.brand:hover {
+  text-decoration: none;
+}
+
+.brand-mark {
+  display: inline-grid;
+  width: 2.6rem;
+  height: 2.6rem;
+  place-items: center;
+  border: 2px solid currentColor;
+  border-radius: 50%;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.brand small {
+  display: block;
+  font-size: 0.35em;
+  letter-spacing: 0.18em;
+}
+
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem 1rem;
+}
+
+.nav a,
+.language-toggle {
+  color: #fff;
+  font-weight: 700;
+}
+
+.nav .nav-join {
+  padding: 0.35rem 0.7rem;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 0.3rem;
+}
+
+.language-toggle,
+.menu-toggle {
+  color: #fff;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 0.3rem;
+  padding: 0.35rem 0.6rem;
+  cursor: pointer;
+}
+
+.menu-toggle {
+  display: none;
+  margin: 0 auto 0.75rem;
+  font-size: 1.1rem;
+}
+
+.hero {
+  padding: 1.5rem;
+  border: 1px solid #dce6f0;
+  border-radius: 0.3rem;
+  background: #f6f8fa;
+}
+
+.hero-mark {
+  margin-top: 1.5rem;
+  color: #159957;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.bear-mark {
+  font-size: 3rem;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.button {
+  display: inline-block;
+  padding: 0.55rem 0.9rem;
+  border: 1px solid #1e6bb8;
+  border-radius: 0.3rem;
+  font-weight: 700;
+}
+
+.button-gold,
+.button-dark {
+  color: #fff;
+  background: #159957;
+  border-color: #159957;
+}
+
+.button-outline {
+  color: #1e6bb8;
+  background: #fff;
+}
+
+.section,
+.page-hero,
+.callout {
+  margin: 2.5rem 0;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+}
+
+.feature-card,
+.team-card,
+.info-panel,
+.news-placeholder {
+  padding: 1.25rem;
+  border: 1px solid #dce6f0;
+  border-radius: 0.3rem;
+}
+
+.feature-card,
+.team-card {
+  background: #fff;
+}
+
+.callout {
+  padding: 1.5rem;
+  background: #f6f8fa;
+  border-radius: 0.3rem;
+}
+
+.menu-open {
+  display: flex !important;
+}
+
+@media (max-width: 48rem) {
+  .menu-toggle {
+    display: block;
+  }
+
+  .nav {
+    display: none;
+    flex-direction: column;
+    margin-top: 0.75rem;
+  }
+
+  .nav a,
+  .language-toggle {
+    width: 100%;
+    text-align: center;
+  }
+}

@@ -4,12 +4,13 @@
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" type="image/png" href="{{ '/assets/images/golden-bears-logo.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
 <a id="skip-to-content" href="#content">Skip to content</a>
 <header class="page-header site-header">
-<h1 class="project-name"><a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark">GB</span><span>GOLDEN BEARS<small>CRICKET CLUB</small></span></a></h1>
+<h1 class="project-name"><a class="brand" href="{{ '/' | relative_url }}" aria-label="Golden Bears Cricket Club home"><img class="brand-logo" src="{{ '/assets/images/golden-bears-logo.png' | relative_url }}" alt="Golden Bears Cricket Club crest"></a></h1>
 <p class="project-tagline">{{ site.description }}</p>
 <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false">☰</button>
 <nav class="nav" id="main-nav">

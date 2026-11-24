@@ -3,10 +3,17 @@
 
 @import "jekyll-theme-cayman";
 
+:root {
+  --navy: #14213D;
+  --navy2: #1F4E79;
+  --gold: #FCA311;
+  --cream: #F3F6FB;
+}
+
 .site-header {
   padding: 2rem 1rem;
-  background-color: #173F7A;
-  background-image: linear-gradient(120deg, #173F7A, #2D63A8);
+  background-color: var(--navy);
+  background-image: linear-gradient(120deg, var(--navy), var(--navy2));
 }
 
 .site-header .project-name {
@@ -29,8 +36,8 @@
   width: 2.6rem;
   height: 2.6rem;
   place-items: center;
-  color: #F4C542;
-  border: 2px solid #F4C542;
+  color: var(--gold);
+  border: 2px solid var(--gold);
   border-radius: 50%;
   font-size: 1rem;
   font-weight: 700;
@@ -58,18 +65,18 @@
 
 .nav .nav-join {
   padding: 0.35rem 0.7rem;
-  color: #173F7A;
-  background: #F4C542;
-  border: 1px solid #F4C542;
+  color: var(--navy);
+  background: var(--gold);
+  border: 1px solid var(--gold);
   border-radius: 0.3rem;
 }
 
 .nav a:not(.nav-join):hover {
-  color: #F4C542;
+  color: var(--gold);
 }
 
 .nav .nav-join:hover {
-  color: #173F7A;
+  color: var(--navy);
   text-decoration: none;
 }
 
@@ -93,12 +100,12 @@
   padding: 1.5rem;
   border: 1px solid #dce6f0;
   border-radius: 0.3rem;
-  background: #F5F8FC;
+  background: var(--cream);
 }
 
 .hero-mark {
   margin-top: 1.5rem;
-  color: #8A6810;
+  color: #765800;
   font-size: 1.5rem;
   font-weight: 700;
   text-align: center;
@@ -106,13 +113,13 @@
 
 .eyebrow,
 .team-label {
-  color: #8A6810;
+  color: #765800;
 }
 
 .ticker {
   padding: 0.75rem 1rem;
-  color: #173F7A;
-  background: #F4C542;
+  color: var(--navy);
+  background: var(--gold);
   font-weight: 700;
   text-align: center;
 }
@@ -130,7 +137,7 @@
 .button {
   display: inline-block;
   padding: 0.55rem 0.9rem;
-  border: 1px solid #2D63A8;
+  border: 1px solid var(--navy2);
   border-radius: 0.3rem;
   font-weight: 700;
 }
@@ -138,14 +145,14 @@
 .button-gold,
 .button-dark {
   color: #fff;
-  background: #173F7A;
-  border-color: #173F7A;
+  background: var(--navy);
+  border-color: var(--navy);
 }
 
 .button-gold {
-  color: #173F7A;
-  background: #F4C542;
-  border-color: #F4C542;
+  color: var(--navy);
+  background: var(--gold);
+  border-color: var(--gold);
 }
 
 .button-dark:hover {
@@ -155,11 +162,19 @@
 .main-content h1,
 .main-content h2,
 .main-content h3 {
-  color: #173F7A;
+  color: var(--navy);
+}
+
+.main-content a:not(.button) {
+  color: var(--navy2);
+}
+
+.main-content a:not(.button):hover {
+  color: var(--navy);
 }
 
 .button-outline {
-  color: #2D63A8;
+  color: var(--navy2);
   background: #fff;
 }
 
@@ -191,7 +206,7 @@
 
 .callout {
   padding: 1.5rem;
-  background: #F5F8FC;
+  background: var(--cream);
   border-radius: 0.3rem;
 }
 

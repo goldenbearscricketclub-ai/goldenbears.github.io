@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+<header class="site-header"><a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark">GB</span><span>GOLDEN BEARS<small>CRICKET CLUB</small></span></a>
+<button class="menu-toggle" aria-label="Open navigation" aria-expanded="false">☰</button>
+<nav class="nav" id="main-nav">
+<a href="{{ '/' | relative_url }}" data-i18n="navHome">Home</a><a href="{{ '/teams/' | relative_url }}" data-i18n="navTeams">Teams</a><a href="{{ '/fixtures/' | relative_url }}" data-i18n="navFixtures">Fixtures</a><a href="{{ '/news/' | relative_url }}" data-i18n="navNews">News</a><a href="{{ '/sponsors/' | relative_url }}" data-i18n="navSponsors">Sponsors</a><a class="nav-join" href="{{ '/join/' | relative_url }}" data-i18n="navJoin">Join us</a>
+<button class="language-toggle" id="language-toggle" type="button" aria-label="Switch language">SV</button>
+</nav></header>
+<main>{{ content }}</main>
+<footer class="footer"><div class="footer-main"><div><a class="brand brand-footer" href="{{ '/' | relative_url }}"><span class="brand-mark">GB</span><span>GOLDEN BEARS<small>CRICKET CLUB</small></span></a><p data-i18n="footerText">Cricket, community and teamwork in Järfälla, Sweden.</p></div><div><strong data-i18n="quickLinks">QUICK LINKS</strong><a href="{{ '/teams/' | relative_url }}">Teams</a><a href="{{ '/fixtures/' | relative_url }}">Fixtures & results</a><a href="{{ '/join/' | relative_url }}">Player registration</a></div><div><strong data-i18n="contact">CONTACT</strong><p>Järfälla, Sweden</p><a href="mailto:ADD-CLUB-EMAIL">ADD-CLUB-EMAIL</a><a href="https://www.instagram.com/goldenbears.jarfallastjarnor/" target="_blank" rel="noopener">Instagram</a></div></div><div class="footer-bottom">© {{ 'now' | date: "%Y" }} Golden Bears Cricket Club <span data-i18n="footerNote"> • Built for the community</span></div></footer>
+<script src="{{ '/assets/js/site.js' | relative_url }}"></script>
+</body></html>

@@ -1,0 +1,11 @@
+title: Golden Bears Cricket Club
+description: Community cricket in Järfälla, Sweden. Everyone is welcome.
+url: "https://YOUR-GITHUB-USERNAME.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: /news/:year/:month/:day/:title/
+lang: en
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

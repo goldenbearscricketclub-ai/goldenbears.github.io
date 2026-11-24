@@ -5,8 +5,8 @@
 
 .site-header {
   padding: 2rem 1rem;
-  background-color: #10243a;
-  background-image: linear-gradient(120deg, #10243a, #183650);
+  background-color: #173F7A;
+  background-image: linear-gradient(120deg, #173F7A, #2D63A8);
 }
 
 .site-header .project-name {
@@ -29,8 +29,8 @@
   width: 2.6rem;
   height: 2.6rem;
   place-items: center;
-  color: #f4b942;
-  border: 2px solid #f4b942;
+  color: #F4C542;
+  border: 2px solid #F4C542;
   border-radius: 50%;
   font-size: 1rem;
   font-weight: 700;
@@ -58,18 +58,18 @@
 
 .nav .nav-join {
   padding: 0.35rem 0.7rem;
-  color: #10243a;
-  background: #f4b942;
-  border: 1px solid #f4b942;
+  color: #173F7A;
+  background: #F4C542;
+  border: 1px solid #F4C542;
   border-radius: 0.3rem;
 }
 
 .nav a:not(.nav-join):hover {
-  color: #f4b942;
+  color: #F4C542;
 }
 
 .nav .nav-join:hover {
-  color: #10243a;
+  color: #173F7A;
   text-decoration: none;
 }
 
@@ -93,12 +93,12 @@
   padding: 1.5rem;
   border: 1px solid #dce6f0;
   border-radius: 0.3rem;
-  background: #f6f8fa;
+  background: #F5F8FC;
 }
 
 .hero-mark {
   margin-top: 1.5rem;
-  color: #96620b;
+  color: #8A6810;
   font-size: 1.5rem;
   font-weight: 700;
   text-align: center;
@@ -106,13 +106,13 @@
 
 .eyebrow,
 .team-label {
-  color: #96620b;
+  color: #8A6810;
 }
 
 .ticker {
   padding: 0.75rem 1rem;
-  color: #10243a;
-  background: #f4b942;
+  color: #173F7A;
+  background: #F4C542;
   font-weight: 700;
   text-align: center;
 }
@@ -130,7 +130,7 @@
 .button {
   display: inline-block;
   padding: 0.55rem 0.9rem;
-  border: 1px solid #1e6bb8;
+  border: 1px solid #2D63A8;
   border-radius: 0.3rem;
   font-weight: 700;
 }
@@ -138,14 +138,14 @@
 .button-gold,
 .button-dark {
   color: #fff;
-  background: #10243a;
-  border-color: #10243a;
+  background: #173F7A;
+  border-color: #173F7A;
 }
 
 .button-gold {
-  color: #10243a;
-  background: #f4b942;
-  border-color: #f4b942;
+  color: #173F7A;
+  background: #F4C542;
+  border-color: #F4C542;
 }
 
 .button-dark:hover {
@@ -155,11 +155,11 @@
 .main-content h1,
 .main-content h2,
 .main-content h3 {
-  color: #10243a;
+  color: #173F7A;
 }
 
 .button-outline {
-  color: #1e6bb8;
+  color: #2D63A8;
   background: #fff;
 }
 
@@ -191,7 +191,7 @@
 
 .callout {
   padding: 1.5rem;
-  background: #f7f5ef;
+  background: #F5F8FC;
   border-radius: 0.3rem;
 }
 

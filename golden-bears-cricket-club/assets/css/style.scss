@@ -5,6 +5,8 @@
 
 .site-header {
   padding: 2rem 1rem;
+  background-color: #10243a;
+  background-image: linear-gradient(120deg, #10243a, #183650);
 }
 
 .site-header .project-name {
@@ -27,7 +29,8 @@
   width: 2.6rem;
   height: 2.6rem;
   place-items: center;
-  border: 2px solid currentColor;
+  color: #f4b942;
+  border: 2px solid #f4b942;
   border-radius: 50%;
   font-size: 1rem;
   font-weight: 700;
@@ -55,8 +58,19 @@
 
 .nav .nav-join {
   padding: 0.35rem 0.7rem;
-  border: 1px solid rgba(255, 255, 255, 0.5);
+  color: #10243a;
+  background: #f4b942;
+  border: 1px solid #f4b942;
   border-radius: 0.3rem;
+}
+
+.nav a:not(.nav-join):hover {
+  color: #f4b942;
+}
+
+.nav .nav-join:hover {
+  color: #10243a;
+  text-decoration: none;
 }
 
 .language-toggle,
@@ -84,8 +98,21 @@
 
 .hero-mark {
   margin-top: 1.5rem;
-  color: #159957;
+  color: #96620b;
   font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.eyebrow,
+.team-label {
+  color: #96620b;
+}
+
+.ticker {
+  padding: 0.75rem 1rem;
+  color: #10243a;
+  background: #f4b942;
   font-weight: 700;
   text-align: center;
 }
@@ -111,8 +138,24 @@
 .button-gold,
 .button-dark {
   color: #fff;
-  background: #159957;
-  border-color: #159957;
+  background: #10243a;
+  border-color: #10243a;
+}
+
+.button-gold {
+  color: #10243a;
+  background: #f4b942;
+  border-color: #f4b942;
+}
+
+.button-dark:hover {
+  color: #fff;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  color: #10243a;
 }
 
 .button-outline {
@@ -148,7 +191,7 @@
 
 .callout {
   padding: 1.5rem;
-  background: #f6f8fa;
+  background: #f7f5ef;
   border-radius: 0.3rem;
 }
 

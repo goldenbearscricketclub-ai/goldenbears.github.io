@@ -63,7 +63,7 @@ Google Forms: https://forms.google.com/
 Install Ruby and Bundler, then run:
 ```bash
 bundle install
-bundle exec jekyll serve
+bundle exec jekyll serve --baseurl ""
 ```
 Open http://localhost:4000.
 

@@ -34,8 +34,8 @@ GitHub Pages documentation: https://docs.github.com/en/pages
 
 ## 3. Club-specific setup before launch
 
-Search and replace these placeholders:
-- `ADD-CLUB-EMAIL` with the club's public contact email.
+Review and complete these launch details:
+- Confirm the public contact email, `goldenbearscricketclub@gmail.com`.
 - `https://docs.google.com/forms/` in `join.md` with the actual Google Form URL.
 - Update `_config.yml` if the GitHub Pages URL or repository arrangement changes.
 - Confirm the actual youth age groups, training details and season information.

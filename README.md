@@ -10,7 +10,7 @@ This starter is prepared for free GitHub Pages hosting. It includes:
 - News and announcements page
 - Player/parent registration page (Google Forms link placeholder)
 - Sponsors and support page
-- English/Swedish language switcher
+- English/Swedish language switcher (Swedish by default; visitor preference is saved)
 - Responsive mobile navigation
 
 ## 1. Create the GitHub repository

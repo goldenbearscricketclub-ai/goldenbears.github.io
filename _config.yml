@@ -4,6 +4,8 @@ theme: jekyll-theme-cayman
 url: "https://goldenbearscricketclub-ai.github.io"
 baseurl: "/goldenbears.github.io"
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
 permalink: /news/:year/:month/:day/:title/
 lang: en
 exclude:

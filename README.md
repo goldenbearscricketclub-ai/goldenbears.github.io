@@ -52,6 +52,8 @@ Review and complete these launch details:
 
 For a simple volunteer workflow, use GitHub's web editor: open a file, click the pencil icon, make the change and commit it.
 
+The sitemap is generated automatically at `/sitemap.xml` under the site's base URL. After publishing, submit that URL in Google Search Console.
+
 ## 5. Registration and privacy
 
 The registration button is only a placeholder until the club creates and links its own form. For under-18 players, a parent/legal guardian should submit the form. Collect only information the club genuinely needs, restrict access to responses, publish a privacy notice, set a retention period, and confirm appropriate GDPR/legal basis and guardian consent arrangements. Do not publish player contact details, birth dates, medical details or other personal data on the public website.

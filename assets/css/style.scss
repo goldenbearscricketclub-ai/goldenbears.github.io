@@ -3,6 +3,11 @@
 
 @import "jekyll-theme-cayman";
 
+html[lang="en"] .lang-sv,
+html[lang="sv"] .lang-en {
+  display: none;
+}
+
 :root {
   --navy: #14213D;
   --navy2: #1F4E79;
@@ -212,6 +217,53 @@
   margin: 2.5rem 0;
 }
 
+.community-feature {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(220px, 0.8fr);
+  align-items: center;
+  gap: 2rem;
+  padding: clamp(1.25rem, 3vw, 2.5rem);
+  background: var(--cream);
+  border: 1px solid #dce6f0;
+  border-radius: 0.3rem;
+}
+
+.community-feature h2 {
+  margin-top: 0;
+}
+
+.community-feature li + li {
+  margin-top: 0.5rem;
+}
+
+.community-poster {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.community-poster img,
+.event-poster img {
+  display: block;
+  width: 100%;
+  max-width: 380px;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 0.3rem;
+}
+
+.event-poster {
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.event-poster img {
+  max-width: 620px;
+}
+
+.news-excerpt p {
+  margin: 0.5rem 0 1rem;
+}
+
 .cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
@@ -243,6 +295,10 @@
 }
 
 @media (max-width: 48rem) {
+  .community-feature {
+    grid-template-columns: 1fr;
+  }
+
   .menu-toggle {
     display: block;
   }

@@ -264,6 +264,28 @@ html[lang="sv"] .lang-en {
   margin: 0.5rem 0 1rem;
 }
 
+.facility-partner {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 1.25rem 0 0;
+  padding-top: 1rem;
+  border-top: 1px solid #dce6f0;
+}
+
+.facility-partner img {
+  width: 4rem;
+  height: 4rem;
+  object-fit: contain;
+  border: 1px solid #dce6f0;
+  border-radius: 0.2rem;
+}
+
+.facility-partner figcaption {
+  color: var(--navy);
+  font-weight: 700;
+}
+
 .cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));

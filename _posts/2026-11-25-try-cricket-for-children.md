@@ -2,7 +2,7 @@
 layout: post
 title: Free cricket sessions for children aged 6–14
 title_sv: Gratis prova på-cricket för barn 6–14 år
-date: 2026-11-25 09:00:00 +0100
+date: 2026-11-25 00:00:00 +0100
 excerpt: >-
   <span class="lang-en">Free cricket try-outs for girls and boys aged 6–14 in Järfälla, led by ICC-certified coaches.</span>
   <span class="lang-sv">Gratis prova på-cricket för flickor och pojkar 6–14 år i Järfälla med ICC-certifierade tränare.</span>

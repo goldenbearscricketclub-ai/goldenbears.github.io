@@ -22,16 +22,21 @@ permalink: /news/
 </section>
 <section class="section" aria-labelledby="news-gallery-title">
   <h2 id="news-gallery-title">
-    <span class="lang-en" lang="en">Photo gallery</span>
-    <span class="lang-sv" lang="sv">Bildgalleri</span>
+    <span class="lang-en" lang="en">Photo &amp; video gallery</span>
+    <span class="lang-sv" lang="sv">Bild- och videogalleri</span>
   </h2>
   <div class="news-gallery-grid">
-    <div class="news-gallery-placeholder">
-      <span class="news-gallery-placeholder-icon" aria-hidden="true">📷</span>
-      <p>
-        <span class="lang-en" lang="en">Photos from club news and events will appear here.</span>
-        <span class="lang-sv" lang="sv">Här visas bilder från föreningens nyheter och evenemang.</span>
-      </p>
+    <div class="news-gallery-embed">
+      <iframe src="https://www.instagram.com/p/DZmvTXfNGri/embed/" title="Instagram post" loading="lazy" allowfullscreen></iframe>
+      <p><a href="https://www.instagram.com/p/DZmvTXfNGri/" target="_blank" rel="noopener noreferrer"><span class="lang-en" lang="en">View on Instagram ↗</span><span class="lang-sv" lang="sv">Se på Instagram ↗</span></a></p>
+    </div>
+    <div class="news-gallery-embed">
+      <iframe src="https://www.instagram.com/p/DcT3GLsOHuf/embed/" title="Instagram post" loading="lazy" allowfullscreen></iframe>
+      <p><a href="https://www.instagram.com/p/DcT3GLsOHuf/" target="_blank" rel="noopener noreferrer"><span class="lang-en" lang="en">View on Instagram ↗</span><span class="lang-sv" lang="sv">Se på Instagram ↗</span></a></p>
+    </div>
+    <div class="news-gallery-embed">
+      <iframe src="https://www.instagram.com/p/Dem2Pd5kXtd/embed/" title="Instagram post" loading="lazy" allowfullscreen></iframe>
+      <p><a href="https://www.instagram.com/p/Dem2Pd5kXtd/" target="_blank" rel="noopener noreferrer"><span class="lang-en" lang="en">View on Instagram ↗</span><span class="lang-sv" lang="sv">Se på Instagram ↗</span></a></p>
     </div>
   </div>
 </section>

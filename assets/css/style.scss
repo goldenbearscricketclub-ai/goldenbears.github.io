@@ -280,6 +280,16 @@ html[lang="sv"] .lang-en {
   gap: 1rem;
 }
 
+.news-gallery-embed {
+  max-width: 540px;
+}
+
+.news-gallery-embed iframe {
+  width: 100%;
+  height: 600px;
+  border: 0;
+}
+
 .news-gallery-placeholder {
   min-height: 14rem;
   display: grid;

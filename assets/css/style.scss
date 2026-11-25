@@ -286,6 +286,30 @@ html[lang="sv"] .lang-en {
   font-weight: 700;
 }
 
+.footer-columns {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
+.footer-heading {
+  margin: 0 0 0.5rem;
+  color: var(--navy);
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.footer-column p {
+  margin: 0;
+}
+
+.site-footer-credits {
+  display: block;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #dce6f0;
+}
+
 .cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
@@ -319,6 +343,11 @@ html[lang="sv"] .lang-en {
 @media (max-width: 48rem) {
   .community-feature {
     grid-template-columns: 1fr;
+  }
+
+  .footer-columns {
+    grid-template-columns: 1fr;
+    gap: 1rem;
   }
 
   .menu-toggle {

@@ -409,6 +409,14 @@ html[lang="en"] .lang-sv, html[lang="sv"] .lang-en { display: none; }
 
 .facility-partner figcaption { color: var(--navy); font-weight: 700; }
 
+.footer-columns { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.5rem; }
+
+.footer-heading { margin: 0 0 0.5rem; color: var(--navy); font-size: 1rem; font-weight: 700; }
+
+.footer-column p { margin: 0; }
+
+.site-footer-credits { display: block; margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid #dce6f0; }
+
 .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1rem; }
 
 .feature-card, .team-card, .info-panel, .news-placeholder { padding: 1.25rem; border: 1px solid #dce6f0; border-radius: 0.3rem; }
@@ -420,6 +428,7 @@ html[lang="en"] .lang-sv, html[lang="sv"] .lang-en { display: none; }
 .menu-open { display: flex !important; }
 
 @media (max-width: 48rem) { .community-feature { grid-template-columns: 1fr; }
+  .footer-columns { grid-template-columns: 1fr; gap: 1rem; }
   .menu-toggle { display: block; }
   .nav { display: none; flex-direction: column; margin-top: 0.75rem; }
   .nav a, .language-toggle { width: 100%; text-align: center; } }

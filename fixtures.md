@@ -39,36 +39,50 @@ permalink: /fixtures/
         </tr>
       </thead>
       <tbody>
+      <tr>
+          <td><span class="lang-en" lang="en">22 Aug 2026</span><span class="lang-sv" lang="sv">22 aug 2026</span></td>
+          <td>2026-Ungdom-U15-T20</td>
+          <td>Mälaren Dragons</td>
+          <td>Järfälla Stjärnor</td>
+          <td><span class="lang-en" lang="en">140/6 (20/20) – 144/2 (16.1/20); Järfälla Stjärnor won by 8 wickets.</span><span class="lang-sv" lang="sv">140/6 (20/20) – 144/2 (16.1/20); Järfälla Stjärnor vann med 8 wickets.</span></td>
+        </tr>
+      <tr>
+          <td><span class="lang-en" lang="en">16 Aug 2026</span><span class="lang-sv" lang="sv">16 aug 2026</span></td>
+          <td>2026-Ungdom-U15-T20</td>
+          <td>Järfälla Stjärnor</td>
+          <td>Sky U15 Boys Alcaraz</td>
+          <td><span class="lang-en" lang="en">137/5 (20/20) – 138/3 (11.1/20); Sky U15 Boys Alcaraz won by 7 wickets.</span><span class="lang-sv" lang="sv">137/5 (20/20) – 138/3 (11.1/20); Sky U15 Boys Alcaraz vann med 7 wickets.</span></td>
+        </tr>
         <tr>
-          <td><span class="lang-en" lang="en">2 Aug 2026</span><span class="lang-sv" lang="sv">2 aug 2026</span></td>
+          <td><span class="lang-en" lang="en">2 Aug 2026</span><span class="lang-sv" lang="sv">2 Aug 2026</span></td>
           <td>2026-Ungdom-U15-T20</td>
           <td>Järfälla Stjärnor</td>
           <td>Pakistanska Föreningen U15</td>
           <td><span class="lang-en" lang="en">0/0 (0/20) – 0/0 (0/20); Forfeited. Winner: Järfälla Stjärnor</span><span class="lang-sv" lang="sv">0/0 (0/20) – 0/0 (0/20); Matchen avgjordes genom walkover. Vinnare: Järfälla Stjärnor.</span></td>
         </tr>
         <tr>
-          <td><span class="lang-en" lang="en">12 July 2026</span><span class="lang-sv" lang="sv">12 juli 2026</span></td>
+          <td><span class="lang-en" lang="en">12 July 2026</span><span class="lang-sv" lang="sv">12 Juli 2026</span></td>
           <td>2026-Ungdom-U15-T20</td>
           <td>Alby Zalmi U15</td>
           <td>Järfälla Stjärnor</td>
           <td><span class="lang-en" lang="en">352/4 (20/20) – 95/8 (20/20); Alby Zalmi U15 won by 257 runs.</span><span class="lang-sv" lang="sv">352/4 (20/20) – 95/8 (20/20); Alby Zalmi U15 vann med 257 runs.</span></td>
         </tr>
         <tr>
-          <td><span class="lang-en" lang="en">3 July 2026</span><span class="lang-sv" lang="sv">3 juli 2026</span></td>
+          <td><span class="lang-en" lang="en">3 July 2026</span><span class="lang-sv" lang="sv">3 Juli 2026</span></td>
           <td>2026-Ungdom-U15-T20</td>
           <td>Järfälla Stjärnor</td>
           <td>SCC Fortniters</td>
           <td><span class="lang-en" lang="en">80/0 (13/20) – 0/0 (0/20); Match abandoned.</span><span class="lang-sv" lang="sv">80/0 (13/20) – 0/0 (0/20); Matchen avbröts.</span></td>
         </tr>
         <tr>
-          <td><span class="lang-en" lang="en">30 May 2026</span><span class="lang-sv" lang="sv">30 maj 2026</span></td>
+          <td><span class="lang-en" lang="en">30 May 2026</span><span class="lang-sv" lang="sv">30 Maj 2026</span></td>
           <td>2026-Ungdom-U15-T20</td>
           <td>Järfälla Stjärnor</td>
           <td>Kista CC U15</td>
           <td><span class="lang-en" lang="en">106/7 (18/20) – 105/8 (20/20); Järfälla Stjärnor won by 3 wickets.</span><span class="lang-sv" lang="sv">106/7 (18/20) – 105/8 (20/20); Järfälla Stjärnor vann med 3 wickets.</span></td>
         </tr>
         <tr>
-          <td><span class="lang-en" lang="en">16 May 2026</span><span class="lang-sv" lang="sv">16 maj 2026</span></td>
+          <td><span class="lang-en" lang="en">16 May 2026</span><span class="lang-sv" lang="sv">16 Maj 2026</span></td>
           <td>2026-Ungdom-U15-T20</td>
           <td>Järfälla Stjärnor</td>
           <td>Märsta CC U15</td>

@@ -63,9 +63,10 @@ Google Forms: https://forms.google.com/
 Install Ruby and Bundler, then run:
 ```bash
 bundle install
-bundle exec jekyll serve --baseurl ""
+bundle exec jekyll serve --baseurl "" --livereload
 ```
 Open http://localhost:4000.
+Jekyll rebuilds the site when files are saved and refreshes the browser automatically. GitHub Pages updates separately after changes are pushed and the deployment completes.
 
 ## 7. Licensing and attribution
 

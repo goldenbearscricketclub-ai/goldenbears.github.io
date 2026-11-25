@@ -6,6 +6,11 @@ baseurl: "/goldenbears.github.io"
 markdown: kramdown
 plugins:
   - jekyll-sitemap
+defaults:
+  - scope:
+      path: "google587e584b2d51d668.html"
+    values:
+      sitemap: false
 permalink: /news/:year/:month/:day/:title/
 lang: en
 exclude:

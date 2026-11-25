@@ -264,6 +264,33 @@ html[lang="sv"] .lang-en {
   margin: 0.5rem 0 1rem;
 }
 
+.news-gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+  gap: 1rem;
+}
+
+.news-gallery-placeholder {
+  min-height: 14rem;
+  display: grid;
+  place-content: center;
+  gap: 0.5rem;
+  padding: 1.5rem;
+  border: 2px dashed #b5c5d8;
+  border-radius: 0.3rem;
+  background: #fff;
+  color: var(--navy2);
+  text-align: center;
+}
+
+.news-gallery-placeholder p {
+  margin: 0;
+}
+
+.news-gallery-placeholder-icon {
+  font-size: 2rem;
+}
+
 .facility-partner {
   display: flex;
   align-items: center;

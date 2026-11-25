@@ -18,7 +18,12 @@ html[lang="sv"] .lang-en {
 .site-header {
   padding: 2rem 1rem;
   background-color: var(--navy);
-  background-image: linear-gradient(120deg, var(--navy), var(--navy2));
+  background-image:
+    linear-gradient(120deg, rgba(20, 33, 61, 0.96), rgba(31, 78, 121, 0.78)),
+    url("../images/cricket-banner.svg");
+  background-position: center, right bottom;
+  background-repeat: no-repeat;
+  background-size: cover, auto 80%;
 }
 
 .brand-row {
@@ -78,6 +83,11 @@ html[lang="sv"] .lang-en {
 }
 
 @media (max-width: 48rem) {
+  .site-header {
+    background-position: center, right bottom;
+    background-size: cover, auto 58%;
+  }
+
   .brand-row {
     grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr) minmax(0, 1fr);
     gap: 0.25rem;

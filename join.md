@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Player registration
-seo_title: "Join a cricket club in Järfälla | Gå med i en cricketklubb i Järfälla"
+seo_title: "Join a Cricket Club in Järfälla | Golden Bears"
 description: "Join a cricket club in Järfälla. Gå med i en cricketklubb i Järfälla för cricketträning, nybörjare, barn, ungdomar och volontärer."
 permalink: /join/
 ---

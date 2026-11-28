@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "News & Gallery"
+seo_title: "Cricket News & Gallery | Golden Bears Järfälla"
 permalink: /news/
 ---
 <section class="page-hero"><p class="eyebrow">FROM THE CLUB</p><h1><span class="lang-en" lang="en">News &amp; Gallery</span><span class="lang-sv" lang="sv">Nyheter och bildgalleri</span></h1><p data-i18n="newsPageIntro">Club updates, training announcements, events and match reports.</p></section>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sponsors & support
+seo_title: "Support Youth Cricket in Järfälla | Golden Bears"
 permalink: /sponsors/
 ---
 <section class="page-hero"><p class="eyebrow">OUR PARTNERS</p><h1 data-i18n="sponsorsTitle">Support the next generation</h1><p data-i18n="sponsorsIntro">Local support helps us create more opportunities for children and young people to enjoy cricket.</p></section>

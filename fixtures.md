@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fixtures & results
+seo_title: "Cricket Fixtures & Results | Golden Bears Järfälla"
 permalink: /fixtures/
 ---
 <section class="page-hero">

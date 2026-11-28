@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Free cricket sessions for children aged 6–14
+seo_title: "Free Cricket for Children Ages 6–14 | Golden Bears"
 title_sv: Gratis prova på-cricket för barn 6–14 år
 date: 2026-11-25 00:00:00 +0000
 excerpt: >-

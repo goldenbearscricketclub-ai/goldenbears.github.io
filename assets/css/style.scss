@@ -377,6 +377,13 @@ html[lang="sv"] .lang-en {
   background: #fff;
 }
 
+.instagram-qr {
+  display: block;
+  width: min(100%, 20rem);
+  height: auto;
+  margin: 0 auto 1rem;
+}
+
 .callout {
   padding: 1.5rem;
   background: var(--cream);

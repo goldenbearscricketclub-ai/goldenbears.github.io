@@ -2,7 +2,7 @@
 layout: default
 title: Player registration
 seo_title: "Join a Cricket Club in Järfälla | Golden Bears"
-description: "Join a cricket club in Järfälla. Gå med i en cricketklubb i Järfälla för cricketträning, nybörjare, barn, ungdomar och volontärer."
+description: "Join Golden Bears Cricket Club in Järfälla. Children, beginners, young players and volunteers are welcome to become part of our cricket community. Gå med i Golden Bears Cricket Club i Järfälla. Barn, nybörjare, unga spelare och volontärer är välkomna till vår cricketgemenskap."
 permalink: /join/
 ---
 <section class="page-hero"><p class="eyebrow"><span class="lang-en" lang="en">BECOME A BEAR</span><span class="lang-sv" lang="sv">BLI EN BEAR</span></p><h1 data-i18n="joinPageTitle">Join a cricket club in Järfälla</h1><p data-i18n="joinPageIntro">Interested in playing cricket or volunteering in Järfälla? Register your interest and the club will get back to you. Beginners are welcome.</p></section>

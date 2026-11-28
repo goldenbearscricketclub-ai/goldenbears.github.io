@@ -2,6 +2,7 @@
 layout: default
 title: "News & Gallery"
 seo_title: "Cricket News & Gallery | Golden Bears Järfälla"
+description: "Discover the latest Golden Bears Cricket Club news, training activities, match highlights, events and youth cricket updates. Läs de senaste nyheterna, träningsaktiviteterna, matchhöjdpunkterna, evenemangen och uppdateringarna om ungdomscricket från Golden Bears Cricket Club."
 permalink: /news/
 ---
 <section class="page-hero"><p class="eyebrow">FROM THE CLUB</p><h1><span class="lang-en" lang="en">News &amp; Gallery</span><span class="lang-sv" lang="sv">Nyheter och bildgalleri</span></h1><p data-i18n="newsPageIntro">Club updates, training announcements, events and match reports.</p></section>

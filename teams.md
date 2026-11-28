@@ -2,7 +2,7 @@
 layout: default
 title: Teams & youth programmes
 seo_title: "Youth Cricket for Children in Stockholm | Golden Bears"
-description: "Cricket for children in Stockholm and Järfälla. Cricket för barn i Stockholm med ungdomscricket, trygga tränare och cricketträning för barn."
+description: "Explore youth cricket teams in Stockholm and Järfälla. Develop batting, bowling, fielding and teamwork with Golden Bears Cricket Club. Utforska ungdomscricketlag i Stockholm och Järfälla och utveckla slagning, bowling, fielding och laganda."
 permalink: /teams/
 ---
 <section class="page-hero"><p class="eyebrow"><span class="lang-en" lang="en">OUR TEAMS</span><span class="lang-sv" lang="sv">VÅRA LAG</span></p><h1 data-i18n="teamsPageTitle">Cricket for children in Stockholm</h1><p data-i18n="teamsPageIntro">Our youth programme in Järfälla is designed to help players build confidence, cricket skills and friendships.</p></section>

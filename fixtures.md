@@ -2,6 +2,7 @@
 layout: default
 title: Fixtures & results
 seo_title: "Cricket Fixtures & Results | Golden Bears Järfälla"
+description: "Follow Golden Bears Cricket Club fixtures, match schedules and results from youth cricket competitions in Stockholm and Sweden. Följ Golden Bears Cricket Clubs matcher, matchprogram och resultat från ungdomscricket i Stockholm och Sverige."
 permalink: /fixtures/
 ---
 <section class="page-hero">

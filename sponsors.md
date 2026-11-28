@@ -2,6 +2,7 @@
 layout: default
 title: Sponsors & support
 seo_title: "Support Youth Cricket in Järfälla | Golden Bears"
+description: "Support youth cricket in Järfälla. Partner with Golden Bears Cricket Club to help children and young players develop through sport. Stöd ungdomscricket i Järfälla. Bli partner till Golden Bears Cricket Club och hjälp barn och unga att utvecklas genom idrotten."
 permalink: /sponsors/
 ---
 <section class="page-hero"><p class="eyebrow">OUR PARTNERS</p><h1 data-i18n="sponsorsTitle">Support the next generation</h1><p data-i18n="sponsorsIntro">Local support helps us create more opportunities for children and young people to enjoy cricket.</p></section>

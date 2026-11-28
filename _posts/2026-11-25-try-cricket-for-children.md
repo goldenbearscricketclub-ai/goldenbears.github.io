@@ -2,6 +2,7 @@
 layout: post
 title: Free cricket sessions for children aged 6–14
 seo_title: "Free Cricket for Children Ages 6–14 | Golden Bears"
+description: "Give your child a chance to try cricket! Golden Bears offers welcoming cricket sessions for children aged 6–14 in Järfälla. Ge ditt barn chansen att prova cricket! Golden Bears erbjuder välkomnande cricketpass för barn 6–14 år i Järfälla."
 title_sv: Gratis prova på-cricket för barn 6–14 år
 date: 2026-11-25 00:00:00 +0000
 excerpt: >-

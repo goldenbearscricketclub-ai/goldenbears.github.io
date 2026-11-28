@@ -6,7 +6,13 @@ description: "Explore youth cricket teams in Stockholm and Järfälla. Develop b
 permalink: /teams/
 ---
 <section class="page-hero"><p class="eyebrow"><span class="lang-en" lang="en">OUR TEAMS</span><span class="lang-sv" lang="sv">VÅRA LAG</span></p><h1 data-i18n="teamsPageTitle">Cricket for children in Stockholm</h1><p data-i18n="teamsPageIntro">Our youth programme in Järfälla is designed to help players build confidence, cricket skills and friendships.</p></section>
-<section class="section"><div class="cards two">
+<section class="section">
+<div class="info-panel">
+  <h2><span class="lang-en" lang="en">Girls in youth cricket</span><span class="lang-sv" lang="sv">Flickor i ungdomscricket</span></h2>
+  <p><span class="lang-en" lang="en">Girls are part of our junior teams and are welcome to learn, train and play cricket alongside other young players. Beginners are welcome.</span><span class="lang-sv" lang="sv">Flickor är en del av våra juniorlag och är välkomna att lära sig, träna och spela cricket tillsammans med andra unga spelare. Nybörjare är välkomna.</span></p>
+  <a href="{{ '/join/' | relative_url }}"><span class="lang-en" lang="en">Ask about joining →</span><span class="lang-sv" lang="sv">Fråga om medlemskap →</span></a>
+</div>
+<div class="cards two">
 <article class="team-card"><span class="team-label">YOUTH</span><h2>U9 / Beginners</h2><p data-i18n="u9">A fun introduction to cricket with soft-ball games, movement, catching, throwing and basic batting. Children learn through enjoyment cricket and team play.</p><small data-i18n="confirmGroup">Programme details and age groups to be confirmed by the club.</small></article>
 <article class="team-card"><span class="team-label">YOUTH</span><h2>U11</h2><p data-i18n="u11">Build core skills, learn simple game situations and enjoy team activities.</p><small data-i18n="confirmGroup">Programme details and age groups to be confirmed by the club.</small></article>
 <article class="team-card"><span class="team-label">YOUTH</span><h2>U13</h2><p data-i18n="u13">Develop batting, bowling, fielding, decision-making and match awareness.</p><small data-i18n="confirmGroup">Programme details and age groups to be confirmed by the club.</small></article>

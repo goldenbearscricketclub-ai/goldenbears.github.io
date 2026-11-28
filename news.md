@@ -29,6 +29,10 @@ permalink: /news/
   </h2>
   <div class="news-gallery-grid">
     <div class="news-gallery-embed">
+      <iframe src="https://www.instagram.com/p/DgR5lzHxcwd/embed/" title="Instagram reel" loading="lazy" allowfullscreen></iframe>
+      <p><a href="https://www.instagram.com/p/DgR5lzHxcwd/?utm_source=ig_web_copy_link&amp;avpt=MzRlODBiNWFlZA==" target="_blank" rel="noopener noreferrer"><span class="lang-en" lang="en">View reel on Instagram ↗</span><span class="lang-sv" lang="sv">Se reel på Instagram ↗</span></a></p>
+    </div>
+    <div class="news-gallery-embed">
       <iframe src="https://www.instagram.com/p/DZmvTXfNGri/embed/" title="Instagram post" loading="lazy" allowfullscreen></iframe>
       <p><a href="https://www.instagram.com/p/DZmvTXfNGri/" target="_blank" rel="noopener noreferrer"><span class="lang-en" lang="en">View on Instagram ↗</span><span class="lang-sv" lang="sv">Se på Instagram ↗</span></a></p>
     </div>
